@@ -1,0 +1,35 @@
+{
+    "lightbox": {
+        "color": [1.0, 1.0, 1.0],
+        "size": 5,
+        "speed": 0.2,
+        "start": [0.0, 1.0, -2.0],
+        "end": [10.0, 1.0, -2.0]
+    },
+    "models": [
+        {
+            "path": "./models/nanosuit/nanosuit.obj",
+            "position": [0.0, -8.0, 3.0],
+            "rotation": [180.0, 0.0, 1.0, 0.0],
+            "scale": [1.0, 1.0, 1.0],
+            "shininess": 1.0,
+            "opacity": 1.0
+        },
+        {
+            "path": "./models/nanosuit/nanosuit.obj",
+            "position": [10.0, -8.0, 3.0],
+            "rotation": [180.0, 0.0, 1.0, 0.0],
+            "scale": [1.0, 1.0, 1.0],
+            "shininess": 100.0,
+            "opacity": 1.0
+        },
+        {
+            "path": "./models/nanosuit/nanosuit.obj",
+            "position": [-10.0, -8.0, 3.0],
+            "rotation": [180.0, 0.0, 1.0, 0.0],
+            "scale": [1.0, 1.0, 1.0],
+            "shininess": 50.0,
+            "opacity": 0.6
+        }
+    ]
+}
